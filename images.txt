@@ -1,2 +1,1 @@
-swr.cn-north-4.myhuaweicloud.com/infiniflow/ragflow:latest
-# 呃
+infiniflow/ragflow-base:v2.0
