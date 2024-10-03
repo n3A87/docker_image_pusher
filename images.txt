@@ -5,4 +5,9 @@
 # redis:7.2.4
 # kindest/node:v1.30.0
 # portainer/portainer:latest
-docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+# docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+
+quay.io/coreos/etcd:v3.5.11
+
+docker.elastic.co/elasticsearch/elasticsearch:8.6.2
+kusionstack/karpor:v0.5.2
